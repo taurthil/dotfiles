@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="smb://10.0.0.100/pi/" added="2019-07-22T19:40:55Z" modified="2019-07-22T19:42:24Z" visited="2019-07-22T19:42:24Z">
+    <title>pi on 10.0.0.100</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2019-07-22T19:42:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://10.0.0.100/" added="2019-07-22T19:42:41Z" modified="2019-07-22T19:42:41Z" visited="2019-07-22T19:42:41Z">
+    <title>Windows shares on 10.0.0.100</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2019-07-22T19:42:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://10.0.0.100/share/" added="2019-07-22T19:53:50Z" modified="2019-07-22T19:53:50Z" visited="2019-07-22T19:53:50Z">
+    <title>share on 10.0.0.100</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2019-07-22T19:53:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

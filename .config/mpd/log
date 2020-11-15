@@ -1,0 +1,1167 @@
+Nov 22 14:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 14:02 : exception: Failed to open '/home/taurthil/.config/mpd/state': No such file or directory
+Nov 22 14:02 : update: added /TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Nov 22 14:02 : update: added /DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+Nov 22 14:02 : update: added /Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Nov 22 14:02 : update: added /Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Nov 22 14:02 : update: added /Emek - Live on Stage Vol.17 enutka.net.mp3
+Nov 22 14:02 : update: added /Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Nov 22 14:02 : update: added /Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Nov 22 14:02 : update: added /Emek - Live on Stage Vol.6 enutka.net.mp3
+Nov 22 14:02 : update: added /double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Nov 22 14:02 : update: added /Martin Promo Dj presents mix(24.02.11).mp3
+Nov 22 14:02 : update: added /Emek - Live on Stage Vol.8 enutka.net.mp3
+Nov 22 14:02 : update: added /DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Nov 22 14:02 : client: [0] opened from 127.0.0.1:48160
+Nov 22 14:02 : client: [0] malformed command "GET / HTTP/1.1"
+Nov 22 14:02 : client: [0] closed
+Nov 22 14:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 14:03 : client: [0] opened from 127.0.0.1:48420
+Nov 22 14:03 : client: [0] malformed command "GET / HTTP/1.1"
+Nov 22 14:03 : client: [0] closed
+Nov 22 14:03 : client: [1] opened from 127.0.0.1:48424
+Nov 22 14:03 : client: [1] malformed command "GET / HTTP/1.1"
+Nov 22 14:03 : client: [1] closed
+Nov 22 14:03 : client: [2] opened from 127.0.0.1:48434
+Nov 22 14:03 : client: [2] malformed command "GET / HTTP/1.1"
+Nov 22 14:03 : client: [2] closed
+Nov 22 14:04 : client: [3] opened from 127.0.0.1:48436
+Nov 22 14:04 : client: [3] malformed command "GET / HTTP/1.1"
+Nov 22 14:04 : client: [3] closed
+Nov 22 14:05 : client: [4] opened from 127.0.0.1:48628
+Nov 22 14:05 : client: [4] malformed command "GET / HTTP/1.1"
+Nov 22 14:05 : client: [4] closed
+Nov 22 14:05 : client: [5] opened from 127.0.0.1:48634
+Nov 22 14:05 : client: [5] malformed command "GET / HTTP/1.1"
+Nov 22 14:05 : client: [5] closed
+Nov 22 14:06 : client: [6] opened from 127.0.0.1:48836
+Nov 22 14:06 : client: [6] malformed command "GET / HTTP/1.1"
+Nov 22 14:06 : client: [6] closed
+Nov 22 14:06 : client: [7] opened from 127.0.0.1:48838
+Nov 22 14:06 : client: [7] malformed command "GET / HTTP/1.1"
+Nov 22 14:06 : client: [7] closed
+Nov 22 14:07 : client: [8] opened from 127.0.0.1:48906
+Nov 22 14:07 : client: [8] malformed command "GET / HTTP/1.1"
+Nov 22 14:07 : client: [8] closed
+Nov 22 14:07 : client: [9] opened from 127.0.0.1:48912
+Nov 22 14:07 : client: [9] malformed command "GET / HTTP/1.1"
+Nov 22 14:07 : client: [9] closed
+Nov 22 14:07 : client: [10] opened from 127.0.0.1:48914
+Nov 22 14:07 : client: [10] malformed command "GET / HTTP/1.1"
+Nov 22 14:07 : client: [10] closed
+Nov 22 14:10 : client: [11] opened from 127.0.0.1:49308
+Nov 22 14:10 : client: [11] malformed command "GET / HTTP/1.1"
+Nov 22 14:10 : client: [11] closed
+Nov 22 14:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 14:24 : client: [0] opened from 127.0.0.1:53668
+Nov 22 14:24 : client: [0] malformed command "GET /robots.txt HTTP/1.1"
+Nov 22 14:24 : client: [0] closed
+Nov 22 14:24 : client: [1] opened from 127.0.0.1:53672
+Nov 22 14:24 : client: [1] malformed command "GET / HTTP/1.1"
+Nov 22 14:24 : client: [1] closed
+Nov 22 14:24 : client: [2] opened from 127.0.0.1:53676
+Nov 22 14:24 : client: [2] malformed command "GET / HTTP/1.1"
+Nov 22 14:24 : client: [2] closed
+Nov 22 14:24 : client: [3] opened from 127.0.0.1:53708
+Nov 22 14:24 : client: [3] malformed command "GET / HTTP/1.1"
+Nov 22 14:24 : client: [3] closed
+Nov 22 14:24 : client: [4] opened from 127.0.0.1:53764
+Nov 22 14:24 : client: [4] malformed command "GET / HTTP/1.1"
+Nov 22 14:24 : client: [4] closed
+Nov 22 14:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 13:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:19 : client: [0] opened from 127.0.0.1:59410
+Nov 23 15:20 : client: [0] closed
+Nov 23 15:20 : client: [1] opened from 127.0.0.1:59452
+Nov 23 15:20 : client: [1] malformed command "GET /robots.txt HTTP/1.1"
+Nov 23 15:20 : client: [1] closed
+Nov 23 15:20 : client: [2] opened from 127.0.0.1:59456
+Nov 23 15:20 : client: [2] malformed command "GET / HTTP/1.1"
+Nov 23 15:20 : client: [2] closed
+Nov 23 15:20 : client: [3] opened from 127.0.0.1:59458
+Nov 23 15:20 : client: [3] malformed command "GET /favicon.ico HTTP/1.1"
+Nov 23 15:20 : client: [3] closed
+Nov 23 15:21 : client: [4] opened from 127.0.0.1:59468
+Nov 23 15:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:21 : client: [4] closed
+Nov 23 15:22 : exception: Failed to play on "pulse audio" (pulse): suspended
+Nov 23 15:23 : client: [5] opened from 127.0.0.1:59500
+Nov 23 15:23 : client: [5] closed
+Nov 23 15:23 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 23 15:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:31 : client: [0] opened from 127.0.0.1:49386
+Nov 23 15:31 : client: [1] opened from 127.0.0.1:49388
+Nov 23 15:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:31 : client: [1] closed
+Nov 23 15:32 : client: [2] opened from 127.0.0.1:49390
+Nov 23 15:32 : client: [2] closed
+Nov 23 15:32 : client: [3] opened from 127.0.0.1:49392
+Nov 23 15:32 : client: [3] closed
+Nov 23 15:32 : client: [4] opened from 127.0.0.1:49394
+Nov 23 15:32 : client: [4] closed
+Nov 23 15:32 : client: [5] opened from 127.0.0.1:49396
+Nov 23 15:32 : client: [5] closed
+Nov 23 15:32 : client: [6] opened from 127.0.0.1:49398
+Nov 23 15:32 : client: [6] closed
+Nov 23 15:32 : client: [0] closed
+Nov 23 15:32 : client: [7] opened from 127.0.0.1:49400
+Nov 23 15:32 : client: [7] closed
+Nov 23 15:32 : client: [8] opened from 127.0.0.1:49402
+Nov 23 15:33 : client: [8] closed
+Nov 23 15:33 : client: [9] opened from 127.0.0.1:49404
+Nov 23 15:33 : client: [9] closed
+Nov 23 15:33 : client: [10] opened from 127.0.0.1:49406
+Nov 23 15:33 : client: [11] opened from 127.0.0.1:49408
+Nov 23 15:33 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 23 15:33 : client: [11] closed
+Nov 23 15:33 : client: [12] opened from 127.0.0.1:49410
+Nov 23 15:33 : client: [12] closed
+Nov 23 15:33 : client: [13] opened from 127.0.0.1:49412
+Nov 23 15:33 : client: [13] closed
+Nov 23 15:33 : client: [14] opened from 127.0.0.1:49414
+Nov 23 15:33 : client: [14] closed
+Nov 23 15:33 : client: [15] opened from 127.0.0.1:49416
+Nov 23 15:33 : client: [15] closed
+Nov 23 15:33 : client: [16] opened from 127.0.0.1:49418
+Nov 23 15:33 : client: [16] closed
+Nov 23 15:33 : client: [17] opened from 127.0.0.1:49420
+Nov 23 15:33 : client: [17] closed
+Nov 23 15:33 : client: [18] opened from 127.0.0.1:49422
+Nov 23 15:34 : client: [18] closed
+Nov 23 15:34 : client: [19] opened from 127.0.0.1:49424
+Nov 23 15:34 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 23 15:34 : client: [19] closed
+Nov 23 15:35 : client: [20] opened from 127.0.0.1:49638
+Nov 23 15:35 : client: [20] closed
+Nov 23 15:36 : client: [10] closed
+Nov 23 15:36 : client: [21] opened from 127.0.0.1:49964
+Nov 23 15:37 : client: [22] opened from 127.0.0.1:49980
+Nov 23 15:37 : client: [23] opened from 127.0.0.1:49982
+Nov 23 15:37 : client: [24] opened from 127.0.0.1:49984
+Nov 23 15:37 : client: [25] opened from 127.0.0.1:49986
+Nov 23 15:37 : client: [26] opened from 127.0.0.1:49988
+Nov 23 15:37 : client: [27] opened from 127.0.0.1:49990
+Nov 23 15:38 : client: [22] closed
+Nov 23 15:38 : client: [24] closed
+Nov 23 15:38 : client: [25] closed
+Nov 23 15:38 : client: [27] closed
+Nov 23 15:39 : client: [26] closed
+Nov 23 15:39 : client: [23] closed
+Nov 23 15:39 : client: [28] opened from 127.0.0.1:50148
+Nov 23 15:39 : client: [28] closed
+Nov 23 15:39 : client: [29] opened from 127.0.0.1:50150
+Nov 23 15:39 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Nov 23 15:39 : client: [29] closed
+Nov 23 15:39 : client: [30] opened from 127.0.0.1:50154
+Nov 23 15:39 : client: [30] closed
+Nov 23 15:43 : client: [31] opened from 127.0.0.1:50432
+Nov 23 15:43 : client: [32] opened from 127.0.0.1:50434
+Nov 23 15:43 : client: [33] opened from 127.0.0.1:50436
+Nov 23 15:43 : client: [34] opened from 127.0.0.1:50438
+Nov 23 15:43 : client: [35] opened from 127.0.0.1:50440
+Nov 23 15:43 : client: [36] opened from 127.0.0.1:50442
+Nov 23 15:44 : client: [37] opened from 127.0.0.1:50444
+Nov 23 15:44 : client: [37] closed
+Nov 23 15:44 : client: [38] opened from 127.0.0.1:50452
+Nov 23 15:44 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Nov 23 15:44 : client: [38] closed
+Nov 23 15:44 : client: [39] opened from 127.0.0.1:50454
+Nov 23 15:44 : client: [39] closed
+Nov 23 15:44 : client: [40] opened from 127.0.0.1:50456
+Nov 23 15:44 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Nov 23 15:44 : client: [40] closed
+Nov 23 15:44 : client: [41] opened from 127.0.0.1:50458
+Nov 23 15:44 : client: [41] closed
+Nov 23 15:44 : client: [42] opened from 127.0.0.1:50460
+Nov 23 15:44 : client: [42] closed
+Nov 23 15:44 : client: [43] opened from 127.0.0.1:50462
+Nov 23 15:44 : client: [43] closed
+Nov 23 15:44 : client: [44] opened from 127.0.0.1:50464
+Nov 23 15:44 : client: [44] closed
+Nov 23 15:44 : client: [45] opened from 127.0.0.1:50466
+Nov 23 15:44 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 23 15:44 : client: [45] closed
+Nov 23 15:44 : client: [46] opened from 127.0.0.1:50468
+Nov 23 15:44 : exception: Not playing
+Nov 23 15:44 : client: [46] closed
+Nov 23 15:44 : client: [47] opened from 127.0.0.1:50470
+Nov 23 15:44 : client: [47] closed
+Nov 23 15:44 : client: [48] opened from 127.0.0.1:50472
+Nov 23 15:44 : client: [48] closed
+Nov 23 15:44 : client: [49] opened from 127.0.0.1:50474
+Nov 23 15:44 : client: [49] closed
+Nov 23 15:44 : client: [31] closed
+Nov 23 15:44 : client: [33] closed
+Nov 23 15:44 : client: [34] closed
+Nov 23 15:44 : client: [35] closed
+Nov 23 15:44 : client: [36] closed
+Nov 23 15:46 : client: [50] opened from 127.0.0.1:50496
+Nov 23 15:46 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Nov 23 15:46 : client: [50] closed
+Nov 23 15:46 : client: [21] closed
+Nov 23 15:46 : client: [51] opened from 127.0.0.1:50504
+Nov 23 17:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 17:39 : client: [0] opened from 127.0.0.1:55726
+Nov 23 17:41 : client: [0] closed
+Nov 23 17:41 : client: [1] opened from 127.0.0.1:55834
+Nov 23 17:42 : client: [1] closed
+Nov 23 17:42 : client: [2] opened from 127.0.0.1:55842
+Nov 23 17:42 : client: [2] closed
+Nov 23 17:42 : client: [3] opened from 127.0.0.1:55844
+Nov 23 17:43 : client: [4] opened from 127.0.0.1:55846
+Nov 23 17:43 : client: [4] closed
+Nov 23 17:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 17:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 17:43 : client: [5] opened from 127.0.0.1:55848
+Nov 23 17:43 : client: [5] closed
+Nov 23 17:43 : client: [6] opened from 127.0.0.1:55850
+Nov 23 17:43 : client: [6] closed
+Nov 23 17:44 : client: [3] closed
+Nov 23 17:44 : client: [7] opened from 127.0.0.1:56240
+Nov 23 17:44 : client: [8] opened from 127.0.0.1:56340
+Nov 23 17:44 : client: [8] closed
+Nov 23 17:45 : client: [7] closed
+Nov 23 17:45 : client: [9] opened from 127.0.0.1:56402
+Nov 23 17:47 : client: [10] opened from 127.0.0.1:56900
+Nov 23 17:47 : client: [10] closed
+Nov 23 17:47 : client: [11] opened from 127.0.0.1:56902
+Nov 23 17:47 : client: [11] closed
+Nov 23 17:47 : client: [12] opened from 127.0.0.1:56904
+Nov 23 17:47 : client: [12] closed
+Nov 23 17:47 : client: [13] opened from 127.0.0.1:56906
+Nov 23 17:47 : client: [13] closed
+Nov 23 17:47 : client: [14] opened from 127.0.0.1:56910
+Nov 23 17:47 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 23 17:47 : client: [14] closed
+Nov 23 17:47 : client: [15] opened from 127.0.0.1:56970
+Nov 23 17:47 : client: [15] closed
+Nov 23 17:47 : client: [16] opened from 127.0.0.1:56972
+Nov 23 17:47 : client: [16] closed
+Nov 23 17:47 : client: [17] opened from 127.0.0.1:56974
+Nov 23 17:47 : client: [17] closed
+Nov 23 17:47 : client: [18] opened from 127.0.0.1:56976
+Nov 23 17:47 : client: [18] closed
+Nov 23 17:47 : client: [19] opened from 127.0.0.1:56978
+Nov 23 17:47 : client: [19] closed
+Nov 23 17:47 : client: [20] opened from 127.0.0.1:56980
+Nov 23 17:47 : client: [20] closed
+Nov 23 17:47 : client: [21] opened from 127.0.0.1:56982
+Nov 23 17:47 : client: [21] closed
+Nov 23 17:47 : client: [22] opened from 127.0.0.1:56984
+Nov 23 17:47 : client: [22] closed
+Nov 23 17:47 : client: [23] opened from 127.0.0.1:56986
+Nov 23 17:47 : client: [23] closed
+Nov 23 17:47 : client: [24] opened from 127.0.0.1:56988
+Nov 23 17:47 : client: [24] closed
+Nov 23 17:47 : client: [25] opened from 127.0.0.1:56990
+Nov 23 17:47 : client: [25] closed
+Nov 23 17:47 : client: [26] opened from 127.0.0.1:56992
+Nov 23 17:47 : client: [26] closed
+Nov 23 17:47 : client: [27] opened from 127.0.0.1:56994
+Nov 23 17:47 : client: [27] closed
+Nov 23 17:47 : client: [28] opened from 127.0.0.1:56996
+Nov 23 17:47 : client: [28] closed
+Nov 23 17:47 : client: [29] opened from 127.0.0.1:56998
+Nov 23 17:47 : client: [29] closed
+Nov 23 17:47 : client: [30] opened from 127.0.0.1:57000
+Nov 23 17:47 : client: [30] closed
+Nov 23 17:47 : client: [31] opened from 127.0.0.1:57002
+Nov 23 17:47 : client: [31] closed
+Nov 23 17:47 : client: [32] opened from 127.0.0.1:57004
+Nov 23 17:47 : client: [32] closed
+Nov 23 17:47 : client: [33] opened from 127.0.0.1:57006
+Nov 23 17:47 : client: [33] closed
+Nov 23 17:47 : client: [34] opened from 127.0.0.1:57008
+Nov 23 17:47 : client: [34] closed
+Nov 23 17:47 : client: [35] opened from 127.0.0.1:57010
+Nov 23 17:47 : client: [35] closed
+Nov 23 17:47 : client: [36] opened from 127.0.0.1:57012
+Nov 23 17:47 : client: [36] closed
+Nov 23 17:47 : client: [37] opened from 127.0.0.1:57014
+Nov 23 17:47 : client: [37] closed
+Nov 23 17:47 : client: [38] opened from 127.0.0.1:57016
+Nov 23 17:47 : client: [38] closed
+Nov 23 17:47 : client: [39] opened from 127.0.0.1:57018
+Nov 23 17:47 : client: [39] closed
+Nov 23 17:47 : client: [40] opened from 127.0.0.1:57020
+Nov 23 17:47 : client: [40] closed
+Nov 23 17:47 : client: [41] opened from 127.0.0.1:57022
+Nov 23 17:47 : client: [41] closed
+Nov 23 17:47 : client: [42] opened from 127.0.0.1:57024
+Nov 23 17:47 : client: [42] closed
+Nov 23 17:47 : client: [43] opened from 127.0.0.1:57026
+Nov 23 17:47 : client: [43] closed
+Nov 23 17:47 : client: [44] opened from 127.0.0.1:57028
+Nov 23 17:47 : client: [44] closed
+Nov 23 17:47 : client: [45] opened from 127.0.0.1:57030
+Nov 23 17:47 : client: [45] closed
+Nov 23 17:47 : client: [46] opened from 127.0.0.1:57032
+Nov 23 17:47 : client: [46] closed
+Nov 23 17:47 : client: [47] opened from 127.0.0.1:57034
+Nov 23 17:47 : client: [47] closed
+Nov 23 17:47 : client: [48] opened from 127.0.0.1:57036
+Nov 23 17:47 : client: [48] closed
+Nov 23 17:48 : client: [9] closed
+Nov 23 17:48 : client: [49] opened from 127.0.0.1:57046
+Nov 23 17:48 : client: [49] closed
+Nov 23 17:48 : client: [50] opened from 127.0.0.1:57052
+Nov 23 17:49 : client: [50] closed
+Nov 23 17:49 : client: [51] opened from 127.0.0.1:57058
+Nov 23 17:49 : client: [51] closed
+Nov 23 17:49 : client: [52] opened from 127.0.0.1:57060
+Nov 23 17:49 : client: [52] closed
+Nov 23 17:49 : client: [53] opened from 127.0.0.1:57136
+Nov 23 17:49 : client: [53] closed
+Nov 23 17:49 : client: [54] opened from 127.0.0.1:57138
+Nov 23 17:49 : client: [54] closed
+Nov 23 17:50 : client: [55] opened from 127.0.0.1:57148
+Nov 23 17:50 : client: [55] closed
+Nov 23 17:50 : client: [56] opened from 127.0.0.1:57150
+Nov 23 17:50 : client: [56] closed
+Nov 23 17:50 : client: [57] opened from 127.0.0.1:57152
+Nov 23 17:50 : client: [57] closed
+Nov 23 17:50 : client: [58] opened from 127.0.0.1:57154
+Nov 23 17:50 : client: [58] closed
+Nov 23 17:50 : client: [59] opened from 127.0.0.1:57160
+Nov 23 17:50 : client: [59] closed
+Nov 23 17:50 : client: [60] opened from 127.0.0.1:57162
+Nov 23 17:50 : client: [60] closed
+Nov 23 17:50 : client: [61] opened from 127.0.0.1:57168
+Nov 23 17:51 : client: [61] closed
+Nov 23 17:51 : client: [62] opened from 127.0.0.1:57178
+Nov 23 17:52 : client: [62] closed
+Nov 23 17:52 : client: [63] opened from 127.0.0.1:57186
+Nov 23 17:52 : client: [63] closed
+Nov 23 17:52 : client: [64] opened from 127.0.0.1:57192
+Nov 23 17:53 : client: [64] closed
+Nov 23 17:53 : client: [65] opened from 127.0.0.1:57198
+Nov 23 17:53 : client: [65] closed
+Nov 23 17:53 : client: [66] opened from 127.0.0.1:57200
+Nov 23 17:58 : client: [66] closed
+Nov 23 17:58 : client: [67] opened from 127.0.0.1:57608
+Nov 23 17:59 : client: [67] closed
+Nov 23 17:59 : client: [68] opened from 127.0.0.1:57614
+Nov 23 17:59 : client: [68] closed
+Nov 23 17:59 : client: [69] opened from 127.0.0.1:57622
+Nov 23 17:59 : client: [70] opened from 127.0.0.1:57628
+Nov 23 17:59 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Nov 23 17:59 : client: [70] closed
+Nov 23 18:00 : client: [71] opened from 127.0.0.1:57634
+Nov 23 18:00 : client: [71] closed
+Nov 23 18:00 : client: [69] closed
+Nov 23 18:00 : client: [72] opened from 127.0.0.1:57640
+Nov 23 18:01 : client: [72] closed
+Nov 23 18:01 : client: [73] opened from 127.0.0.1:57646
+Nov 23 18:01 : client: [73] closed
+Nov 23 18:01 : client: [74] opened from 127.0.0.1:57716
+Nov 23 18:01 : client: [75] opened from 127.0.0.1:57718
+Nov 23 18:01 : client: [75] closed
+Nov 23 18:01 : client: [76] opened from 127.0.0.1:57720
+Nov 23 18:01 : client: [76] closed
+Nov 23 18:01 : client: [77] opened from 127.0.0.1:57722
+Nov 23 18:01 : client: [77] closed
+Nov 23 18:01 : client: [78] opened from 127.0.0.1:57724
+Nov 23 18:01 : client: [78] closed
+Nov 23 18:01 : client: [79] opened from 127.0.0.1:57726
+Nov 23 18:01 : client: [79] closed
+Nov 23 18:02 : client: [80] opened from 127.0.0.1:57728
+Nov 23 18:02 : client: [80] closed
+Nov 23 18:02 : client: [81] opened from 127.0.0.1:57730
+Nov 23 18:02 : client: [81] closed
+Nov 23 18:02 : client: [82] opened from 127.0.0.1:57732
+Nov 23 18:02 : client: [82] closed
+Nov 23 18:02 : client: [83] opened from 127.0.0.1:57734
+Nov 23 18:02 : client: [83] closed
+Nov 23 18:02 : client: [84] opened from 127.0.0.1:57736
+Nov 23 18:02 : client: [84] closed
+Nov 23 18:02 : client: [85] opened from 127.0.0.1:57738
+Nov 23 18:02 : client: [85] closed
+Nov 23 18:02 : client: [86] opened from 127.0.0.1:57740
+Nov 23 18:02 : client: [86] closed
+Nov 23 18:02 : client: [87] opened from 127.0.0.1:57746
+Nov 23 18:02 : client: [87] closed
+Nov 23 18:02 : client: [88] opened from 127.0.0.1:57748
+Nov 23 18:02 : client: [88] closed
+Nov 23 18:03 : client: [74] closed
+Nov 23 18:03 : client: [89] opened from 127.0.0.1:57762
+Nov 23 18:03 : client: [90] opened from 127.0.0.1:57768
+Nov 23 18:03 : client: [90] closed
+Nov 23 18:03 : client: [91] opened from 127.0.0.1:57770
+Nov 23 18:03 : client: [91] closed
+Nov 23 18:03 : client: [92] opened from 127.0.0.1:57772
+Nov 23 18:03 : client: [92] closed
+Nov 23 18:03 : client: [89] closed
+Nov 23 18:03 : client: [93] opened from 127.0.0.1:57774
+Nov 23 18:03 : client: [94] opened from 127.0.0.1:57776
+Nov 23 18:03 : client: [94] closed
+Nov 23 18:03 : client: [95] opened from 127.0.0.1:57778
+Nov 23 18:03 : client: [95] closed
+Nov 23 18:03 : client: [93] closed
+Nov 23 18:03 : client: [96] opened from 127.0.0.1:57784
+Nov 23 18:03 : client: [97] opened from 127.0.0.1:57786
+Nov 23 18:03 : client: [97] closed
+Nov 23 18:03 : client: [98] opened from 127.0.0.1:57788
+Nov 23 18:03 : client: [98] closed
+Nov 23 18:04 : client: [96] closed
+Nov 23 18:04 : client: [99] opened from 127.0.0.1:57794
+Nov 23 18:04 : client: [100] opened from 127.0.0.1:57796
+Nov 23 18:04 : client: [100] closed
+Nov 23 18:04 : client: [101] opened from 127.0.0.1:57798
+Nov 23 18:04 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Nov 23 18:04 : client: [101] closed
+Nov 23 18:04 : client: [102] opened from 127.0.0.1:57800
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [102] closed
+Nov 23 18:04 : client: [103] opened from 127.0.0.1:57802
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [103] closed
+Nov 23 18:04 : client: [99] closed
+Nov 23 18:04 : client: [104] opened from 127.0.0.1:57806
+Nov 23 18:04 : client: [105] opened from 127.0.0.1:57808
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [105] closed
+Nov 23 18:04 : client: [106] opened from 127.0.0.1:57810
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [106] closed
+Nov 23 18:04 : client: [107] opened from 127.0.0.1:57812
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [107] closed
+Nov 23 18:04 : client: [108] opened from 127.0.0.1:57814
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [108] closed
+Nov 23 18:04 : client: [109] opened from 127.0.0.1:57816
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [109] closed
+Nov 23 18:04 : client: [110] opened from 127.0.0.1:57818
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [110] closed
+Nov 23 18:04 : client: [111] opened from 127.0.0.1:57820
+Nov 23 18:04 : exception: Not playing
+Nov 23 18:04 : client: [111] closed
+Nov 23 18:04 : client: [112] opened from 127.0.0.1:57826
+Nov 23 18:04 : client: [112] closed
+Nov 23 18:05 : client: [104] closed
+Nov 23 18:05 : client: [113] opened from 127.0.0.1:57828
+Nov 23 18:05 : client: [114] opened from 127.0.0.1:57838
+Nov 23 18:05 : client: [114] closed
+Nov 23 18:05 : client: [115] opened from 127.0.0.1:57840
+Nov 23 18:05 : client: [115] closed
+Nov 23 18:05 : client: [116] opened from 127.0.0.1:57842
+Nov 23 18:05 : client: [116] closed
+Nov 23 18:06 : client: [117] opened from 127.0.0.1:57894
+Nov 23 18:06 : client: [117] closed
+Nov 23 18:40 : client: [118] opened from 127.0.0.1:58840
+Nov 23 18:40 : client: [118] closed
+Nov 23 18:40 : client: [119] opened from 127.0.0.1:58842
+Nov 23 18:40 : client: [119] closed
+Nov 23 18:40 : client: [120] opened from 127.0.0.1:58844
+Nov 23 18:41 : client: [120] closed
+Nov 23 18:41 : client: [121] opened from 127.0.0.1:58850
+Nov 23 18:41 : client: [121] closed
+Nov 23 18:41 : client: [122] opened from 127.0.0.1:58886
+Nov 23 18:41 : client: [122] closed
+Nov 24 01:38 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 25 08:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 08:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 08:15 : client: [0] opened from 127.0.0.1:52584
+Nov 25 08:15 : client: [0] closed
+Nov 25 08:15 : client: [1] opened from 127.0.0.1:52614
+Nov 25 08:41 : client: [2] opened from 127.0.0.1:41270
+Nov 25 08:41 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 25 08:41 : client: [2] closed
+Nov 25 08:41 : client: [3] opened from 127.0.0.1:41308
+Nov 25 08:41 : client: [3] closed
+Nov 25 08:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 08:41 : client: [4] opened from 127.0.0.1:41310
+Nov 25 08:41 : client: [4] closed
+Nov 25 08:50 : client: [5] opened from 127.0.0.1:50684
+Nov 25 08:50 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Nov 25 08:50 : client: [5] closed
+Nov 25 09:06 : client: [1] closed
+Nov 25 09:06 : client: [6] opened from 127.0.0.1:57118
+Nov 25 09:06 : client: [6] closed
+Nov 25 09:06 : client: [7] opened from 127.0.0.1:57154
+Nov 25 09:44 : client: [8] opened from 127.0.0.1:35466
+Nov 25 09:46 : client: [9] opened from 127.0.0.1:35694
+Nov 25 09:46 : client: [9] closed
+Nov 25 09:46 : client: [10] opened from 127.0.0.1:35702
+Nov 25 09:46 : client: [10] closed
+Nov 25 09:47 : client: [11] opened from 127.0.0.1:35790
+Nov 25 09:47 : client: [11] closed
+Nov 25 09:47 : client: [12] opened from 127.0.0.1:35792
+Nov 25 09:47 : client: [12] closed
+Nov 25 09:48 : client: [7] closed
+Nov 25 09:48 : client: [13] opened from 127.0.0.1:35856
+Nov 25 09:48 : client: [14] opened from 127.0.0.1:36006
+Nov 25 09:48 : client: [14] closed
+Nov 25 09:48 : client: [15] opened from 127.0.0.1:36014
+Nov 25 09:48 : client: [15] closed
+Nov 25 09:49 : client: [13] closed
+Nov 25 09:49 : client: [16] opened from 127.0.0.1:36130
+Nov 25 09:50 : client: [16] closed
+Nov 25 09:50 : client: [17] opened from 127.0.0.1:36180
+Nov 25 09:50 : client: [18] opened from 127.0.0.1:36204
+Nov 25 09:50 : client: [18] closed
+Nov 25 09:52 : client: [17] closed
+Nov 25 09:52 : client: [19] opened from 127.0.0.1:36328
+Nov 25 09:52 : client: [20] opened from 127.0.0.1:36336
+Nov 25 09:52 : client: [20] closed
+Nov 25 09:52 : client: [21] opened from 127.0.0.1:36338
+Nov 25 09:52 : client: [21] closed
+Nov 25 09:52 : client: [22] opened from 127.0.0.1:36346
+Nov 25 09:52 : client: [22] closed
+Nov 25 09:52 : client: [23] opened from 127.0.0.1:36348
+Nov 25 09:52 : client: [23] closed
+Nov 25 09:52 : client: [24] opened from 127.0.0.1:36356
+Nov 25 09:52 : client: [24] closed
+Nov 25 09:52 : client: [25] opened from 127.0.0.1:36358
+Nov 25 09:52 : client: [25] closed
+Nov 25 09:52 : client: [26] opened from 127.0.0.1:36366
+Nov 25 09:52 : client: [26] closed
+Nov 25 09:52 : client: [27] opened from 127.0.0.1:36368
+Nov 25 09:52 : client: [27] closed
+Nov 25 09:52 : client: [28] opened from 127.0.0.1:36390
+Nov 25 09:52 : client: [28] closed
+Nov 25 09:52 : client: [19] closed
+Nov 25 09:52 : client: [29] opened from 127.0.0.1:36416
+Nov 25 09:52 : client: [29] closed
+Nov 25 09:52 : client: [30] opened from 127.0.0.1:36418
+Nov 25 09:52 : client: [31] opened from 127.0.0.1:36432
+Nov 25 09:52 : client: [31] closed
+Nov 25 09:53 : client: [30] closed
+Nov 25 09:53 : client: [32] opened from 127.0.0.1:36440
+Nov 25 09:53 : client: [32] closed
+Nov 25 09:53 : client: [33] opened from 127.0.0.1:36444
+Nov 25 09:53 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Nov 25 09:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 09:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 09:54 : client: [0] opened from 127.0.0.1:49792
+Nov 25 09:54 : client: [0] closed
+Nov 25 09:54 : client: [1] opened from 127.0.0.1:49822
+Nov 25 10:00 : client: [2] opened from 127.0.0.1:50912
+Nov 25 10:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 10:00 : client: [2] closed
+Nov 25 10:00 : client: [3] opened from 127.0.0.1:50914
+Nov 25 10:00 : client: [3] closed
+Nov 25 10:01 : client: [1] closed
+Nov 25 10:01 : client: [4] opened from 127.0.0.1:51122
+Nov 25 10:01 : client: [5] opened from 127.0.0.1:51126
+Nov 25 10:01 : client: [5] closed
+Nov 25 10:01 : client: [6] opened from 127.0.0.1:51128
+Nov 25 10:01 : client: [6] closed
+Nov 25 10:01 : client: [7] opened from 127.0.0.1:51136
+Nov 25 10:01 : client: [7] closed
+Nov 25 10:01 : client: [8] opened from 127.0.0.1:51138
+Nov 25 10:01 : client: [8] closed
+Nov 25 10:01 : client: [9] opened from 127.0.0.1:51140
+Nov 25 10:01 : client: [10] opened from 127.0.0.1:51142
+Nov 25 10:01 : client: [10] closed
+Nov 25 10:01 : client: [9] closed
+Nov 25 10:01 : client: [11] opened from 127.0.0.1:51144
+Nov 25 10:01 : client: [12] opened from 127.0.0.1:51146
+Nov 25 10:01 : client: [11] closed
+Nov 25 10:01 : client: [12] closed
+Nov 25 10:01 : client: [13] opened from 127.0.0.1:51172
+Nov 25 10:01 : client: [14] opened from 127.0.0.1:51174
+Nov 25 10:01 : client: [13] closed
+Nov 25 10:01 : client: [14] closed
+Nov 25 10:03 : client: [15] opened from 127.0.0.1:51414
+Nov 25 10:03 : client: [16] opened from 127.0.0.1:51416
+Nov 25 10:03 : client: [15] closed
+Nov 25 10:03 : client: [16] closed
+Nov 25 10:21 : client: [17] opened from 127.0.0.1:53568
+Nov 25 10:22 : client: [17] closed
+Nov 25 10:22 : client: [18] opened from 127.0.0.1:53684
+Nov 25 10:22 : client: [19] opened from 127.0.0.1:53686
+Nov 25 10:22 : client: [19] closed
+Nov 25 10:22 : client: [18] closed
+Nov 25 10:22 : client: [20] opened from 127.0.0.1:53688
+Nov 25 10:22 : client: [21] opened from 127.0.0.1:53690
+Nov 25 10:22 : client: [20] closed
+Nov 25 10:22 : client: [21] closed
+Nov 25 10:22 : client: [22] opened from 127.0.0.1:53698
+Nov 25 10:22 : client: [23] opened from 127.0.0.1:53700
+Nov 25 10:22 : client: [23] closed
+Nov 25 10:22 : client: [22] closed
+Nov 25 10:22 : client: [24] opened from 127.0.0.1:53702
+Nov 25 10:22 : client: [24] closed
+Nov 25 10:22 : client: [25] opened from 127.0.0.1:53704
+Nov 25 10:22 : client: [25] closed
+Nov 25 10:25 : client: [26] opened from 127.0.0.1:54172
+Nov 25 10:25 : client: [27] opened from 127.0.0.1:54174
+Nov 25 10:25 : client: [27] closed
+Nov 25 10:25 : client: [26] closed
+Nov 25 10:25 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Nov 29 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:07 : client: [0] opened from 127.0.0.1:51382
+Nov 29 11:07 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Nov 29 11:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:10 : client: [0] opened from 127.0.0.1:52052
+Nov 29 11:11 : client: [0] closed
+Nov 29 11:11 : client: [1] opened from 127.0.0.1:52106
+Nov 29 11:12 : client: [1] closed
+Nov 29 11:12 : client: [2] opened from 127.0.0.1:52210
+Nov 29 11:12 : client: [2] closed
+Nov 29 11:13 : client: [3] opened from 127.0.0.1:52236
+Nov 29 11:13 : client: [4] opened from 127.0.0.1:52244
+Nov 29 11:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:13 : client: [4] closed
+Nov 29 11:13 : client: [5] opened from 127.0.0.1:52246
+Nov 29 11:13 : client: [5] closed
+Nov 29 11:13 : client: [6] opened from 127.0.0.1:52248
+Nov 29 11:13 : client: [6] closed
+Nov 29 11:13 : client: [7] opened from 127.0.0.1:52250
+Nov 29 11:13 : client: [7] closed
+Nov 29 11:13 : client: [8] opened from 127.0.0.1:52252
+Nov 29 11:13 : client: [8] closed
+Nov 29 11:13 : client: [9] opened from 127.0.0.1:52254
+Nov 29 11:13 : client: [9] closed
+Nov 29 11:13 : client: [10] opened from 127.0.0.1:52256
+Nov 29 11:13 : client: [10] closed
+Nov 29 11:13 : client: [11] opened from 127.0.0.1:52258
+Nov 29 11:13 : client: [11] closed
+Nov 29 11:13 : client: [12] opened from 127.0.0.1:52260
+Nov 29 11:13 : client: [12] closed
+Nov 29 11:13 : client: [13] opened from 127.0.0.1:52262
+Nov 29 11:13 : client: [13] closed
+Nov 29 11:13 : client: [14] opened from 127.0.0.1:52264
+Nov 29 11:13 : client: [14] closed
+Nov 29 11:13 : client: [15] opened from 127.0.0.1:52266
+Nov 29 11:13 : client: [15] closed
+Nov 29 11:13 : client: [16] opened from 127.0.0.1:52270
+Nov 29 11:13 : client: [16] closed
+Nov 29 11:13 : client: [17] opened from 127.0.0.1:52276
+Nov 29 11:13 : client: [17] closed
+Nov 29 11:13 : client: [18] opened from 127.0.0.1:52278
+Nov 29 11:13 : client: [18] closed
+Nov 29 11:13 : client: [3] closed
+Nov 29 11:13 : client: [19] opened from 127.0.0.1:52392
+Nov 29 11:14 : client: [19] closed
+Nov 29 11:14 : client: [20] opened from 127.0.0.1:52414
+Nov 29 11:14 : client: [21] opened from 127.0.0.1:52422
+Nov 29 11:14 : client: [21] closed
+Nov 29 11:14 : client: [22] opened from 127.0.0.1:52424
+Nov 29 11:14 : client: [22] closed
+Nov 29 11:14 : client: [20] closed
+Nov 29 11:14 : client: [23] opened from 127.0.0.1:52502
+Nov 29 11:15 : client: [23] closed
+Nov 29 11:15 : client: [24] opened from 127.0.0.1:52540
+Nov 29 11:16 : client: [24] closed
+Nov 29 11:16 : client: [25] opened from 127.0.0.1:52662
+Nov 29 11:16 : client: [26] opened from 127.0.0.1:52668
+Nov 29 11:16 : client: [26] closed
+Nov 29 11:16 : client: [27] opened from 127.0.0.1:52678
+Nov 29 11:16 : client: [27] closed
+Nov 29 11:16 : client: [25] closed
+Nov 29 11:16 : client: [28] opened from 127.0.0.1:52694
+Nov 29 11:16 : client: [29] opened from 127.0.0.1:52698
+Nov 29 11:16 : client: [29] closed
+Nov 29 11:16 : client: [30] opened from 127.0.0.1:52704
+Nov 29 11:16 : client: [30] closed
+Nov 29 11:35 : client: [31] opened from 127.0.0.1:54640
+Nov 29 11:35 : client: [32] opened from 127.0.0.1:54642
+Nov 29 11:35 : client: [31] closed
+Nov 29 11:35 : client: [32] closed
+Nov 29 11:35 : client: [33] opened from 127.0.0.1:54644
+Nov 29 11:35 : client: [34] opened from 127.0.0.1:54646
+Nov 29 11:35 : client: [33] closed
+Nov 29 11:35 : client: [34] closed
+Nov 29 11:35 : client: [35] opened from 127.0.0.1:54650
+Nov 29 11:35 : client: [36] opened from 127.0.0.1:54652
+Nov 29 11:35 : client: [35] closed
+Nov 29 11:35 : client: [36] closed
+Nov 29 11:35 : client: [37] opened from 127.0.0.1:54658
+Nov 29 11:35 : client: [37] closed
+Nov 29 11:35 : client: [38] opened from 127.0.0.1:54660
+Nov 29 11:35 : client: [39] opened from 127.0.0.1:54662
+Nov 29 11:35 : client: [38] closed
+Nov 29 11:35 : client: [39] closed
+Nov 29 11:35 : client: [40] opened from 127.0.0.1:54670
+Nov 29 11:36 : client: [40] closed
+Nov 29 11:36 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 08:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 08:15 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 08:15 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 08:15 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 08:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 08:15 : client: [0] opened from 127.0.0.1:39216
+Dec 09 08:33 : client: [1] opened from 127.0.0.1:41538
+Dec 09 08:34 : client: [1] closed
+Dec 09 19:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 19:20 : client: [0] opened from 127.0.0.1:49888
+Dec 09 19:20 : client: [1] opened from 127.0.0.1:49890
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : client: [1] closed
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : client: [2] opened from 127.0.0.1:49894
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : client: [2] closed
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : client: [3] opened from 127.0.0.1:49896
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : client: [3] closed
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : client: [4] opened from 127.0.0.1:49898
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : client: [4] closed
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3"
+Dec 09 19:20 : client: [5] opened from 127.0.0.1:49900
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : client: [5] closed
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : client: [6] opened from 127.0.0.1:49902
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : client: [6] closed
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3': No such file or directory
+Dec 09 19:20 : player: played "Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/TheVoiceProject-Sounds of House Music set vol. 1.mp3': No such file or directory
+Dec 09 19:20 : player: played "TheVoiceProject-Sounds of House Music set vol. 1.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.17 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.17 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3': No such file or directory
+Dec 09 19:20 : player: played "double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.6 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.6 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3': No such file or directory
+Dec 09 19:20 : player: played "Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Martin Promo Dj presents mix(24.02.11).mp3': No such file or directory
+Dec 09 19:20 : player: played "Martin Promo Dj presents mix(24.02.11).mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/Emek - Live on Stage Vol.8 enutka.net.mp3': No such file or directory
+Dec 09 19:20 : player: played "Emek - Live on Stage Vol.8 enutka.net.mp3"
+Dec 09 19:20 : exception: Failed to decode /home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+Dec 09 19:20 : exception: nested: Failed to open '/home/taurthil/Music/DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3': No such file or directory
+Dec 09 19:20 : player: played "DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3"

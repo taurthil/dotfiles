@@ -1,0 +1,43 @@
+sw_volume: 94
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: stop
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+1:Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+2:Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+3:Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+4:Emek - Live on Stage Vol.17 enutka.net.mp3
+5:Emek - Live on Stage Vol.8 enutka.net.mp3
+6:Martin Promo Dj presents mix(24.02.11).mp3
+7:TheVoiceProject-Sounds of House Music set vol. 1.mp3
+8:Emek - Live on Stage Vol.17 enutka.net.mp3
+9:Emek - Live on Stage Vol.6 enutka.net.mp3
+10:Emek - Live on Stage Vol.8 enutka.net.mp3
+11:Martin Promo Dj presents mix(24.02.11).mp3
+12:TheVoiceProject-Sounds of House Music set vol. 1.mp3
+13:double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+14:Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+15:Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+16:Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+17:Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+18:DJ Exon - Electro-House! Vol. 13 [Urodzinowo dla Pitera! Pompeczka!].mp3
+19:DJ Exon - Electro-House Vol.16! (Wakacyjna moc!).mp3
+20:Emek - Live on Stage Vol.17 enutka.net.mp3
+21:Emek - Live on Stage Vol.6 enutka.net.mp3
+22:Emek - Live on Stage Vol.8 enutka.net.mp3
+23:Martin Promo Dj presents mix(24.02.11).mp3
+24:TheVoiceProject-Sounds of House Music set vol. 1.mp3
+25:double_stars_feat._mike_w_-_i_still_believe_check_dance_remix.mp3
+26:Emek - Pozytywne Wibracje Vol.1 enutka.net.mp3
+27:Grygu_ - TABU Hit Mix vol. 1 (Przystanek Balet 2010) www.eNutka.net.mp3
+28:Rechu - In the mix no. 1 (www.rechu.dj.ftb.pl).mp3
+29:Double Stars feat. Mike W - I Still Believe (Check Dance Remix) www.electro-blog.pl.mp3
+playlist_end
