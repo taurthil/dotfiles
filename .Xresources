@@ -1,0 +1,59 @@
+
+*.background:    #383C4A
+*.foreground:    #D3DAE3
+*.cursorColor:   #c6c6c6
+
+! black
+*.color0:       #1f1f1f
+*.color8:       #383C4A
+*.color19:      #2f343f
+
+! red
+*.color1:       #cc575d
+*.color9:       #d7787d
+
+! green
+*.color2:       #8aa874
+*.color10:      #96c773
+*.color18:      #1db954
+
+! yellow
+*.color3:       #c5ac7c
+*.color11:      #e5c07b
+
+! blue
+*.color4:       #5a89af
+*.color12:      #5294e2
+
+! magenta
+*.color5:       #9f7ba9
+*.color13:      #bd84ce
+
+! cyan
+*.color6:       #409c9c
+*.color14:      #35b8b8
+
+! white
+*.color7:       #888d98
+*.color15:      #c6c6c6
+*.color16:      #f3f3f5
+*.color17:      #ffffff
+
+! XTerm
+XTerm.vt100.faceName: Droid Sans Mono for Powerline Plus Nerd File Types Mono:style=Regular
+XTerm.vt100.scaleHeight: 1.0
+XTerm.vt100.faceSize: 12
+XTerm.vt100.geometry: 80x32
+
+
+URxvt.font: xft:Source Code Pro:size=10.5
+URxvt.depth:                      32
+URxvt*scrollBar:                  false
+URxvt*mouseWheelScrollPage:       false
+URxvt*cursorBlink:                true
+URxvt*saveLines:                  5000
+URxvt*internalBorder:             5
+URxvt*geometry:                   70x19
+
+Xcursor.theme:mcmojave-cursors
+Xcursor.size: 24

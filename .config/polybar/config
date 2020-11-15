@@ -1,0 +1,5 @@
+[global/wm]
+include-file = ~/.config/polybar/base.ini
+include-file = ~/.config/polybar/main.ini
+include-file = ~/.config/polybar/infobar.ini
+include-file = ~/.config/polybar/modules.ini

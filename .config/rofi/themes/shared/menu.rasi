@@ -1,0 +1,32 @@
+/**
+ * Settings used in every rofi option menu:
+ *  - i3layoutmenu
+ *  - mpdmenu
+ *  - powermenu
+ *  - scrotmenu
+ */
+@import "colorschemes/arc.rasi"
+
+* {
+  /* General */
+  text-font:                            "Comfortaa 12";
+  text-font-mono:                       "RobotoMono Nerd Font Regular 12";
+  icon-font:                            "Hurmit Nerd Font Mono 50";
+  icon-font-small:                      "Hurmit Nerd Font Mono 15";
+  inputbar-margin:                      4px 4px;
+  prompt-padding:                       10px 12px;
+  entry-padding:                        10px 12px 14px 0px;
+  /* list menus: appsmenu, networkmenu and nmvpnmenu */
+  list-element-padding:                 5px;
+  list-element-margin:                  @inputbar-margin;
+  list-element-border:                  0px 0px 0px 8px;
+  list-8-window-padding:                30px 30px;
+
+}
+
+
+#horibox {
+  children: [ prompt, entry, listview ];
+}
+
+

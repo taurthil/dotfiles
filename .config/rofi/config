@@ -1,0 +1,7 @@
+rofi.font: DejaVu Sans Mono Nerd Font Complete 16
+# rofi.theme: ~/.config/rofi/Arc-Dark.rasi
+rofi.theme: ~/.config/rofi/themes/appsmenu.rasi
+rofi.separator-style: none
+rofi.columns: 4
+rofi.terminal: kitty
+rofi.opacity:  50

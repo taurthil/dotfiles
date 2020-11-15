@@ -1,0 +1,27 @@
+/**
+ * Settings used in every rofi option menu:
+ *  - i3layoutmenu
+ *  - mpdmenu
+ *  - powermenu
+ *  - scrotmenu
+ */
+@import "settings.rasi"
+
+#window {
+  children: [ horibox ];
+}
+#horibox {
+  children: [ listview ];
+}
+#listview {
+  layout: horizontal;
+}
+#element {
+  padding: @option-element-padding;
+  background-color: @background-light;
+}
+#element.selected {
+  background-color: @accent;
+  text-color: @background;
+}
+

@@ -1,0 +1,551 @@
+# Modifier keys
+set $super      Mod4
+set $alt        Mod1
+
+# laptop screen
+set $laptop     eDP-1
+set $monitor4k  DP-1-2
+set $monitorFHD DP-2-2
+
+#default options
+default_orientation     horizontal
+workspace_layout        default
+title_align center
+for_window [class=".*"] border pixel 0
+for_window [class=".*"] title_format "<b>%title</b>"
+for_window [class="kitty"] title_format "<b>%title</b>"
+#For phpStorm popup-windows
+focus_follows_mouse no
+######################################  Fonts
+font pango:Droid Sans Mono for Powerline Plus Nerd File Types Mono, 9
+
+exec gnome-settings-daemon
+
+######################################  Variables
+# Custom Colors
+set_from_resource $black    i3wm.color0
+set_from_resource $brblack  i3wm.color8
+set_from_resource $white    i3wm.color17
+set_from_resource $brwhite  i3wm.color15
+set_from_resource $red      i3wm.color1
+set_from_resource $brred    i3wm.color9
+set_from_resource $green    i3wm.color2
+set_from_resource $brgreen  i3wm.color10
+set_from_resource $yellow   i3wm.color3
+set_from_resource $bryellow i3wm.color11
+set_from_resource $blue     i3wm.color4
+set_from_resource $brblue   i3wm.color12
+set_from_resource $magenta  i3wm.color13
+set_from_resource $cyan     i3wm.color14
+
+######################################  Aplications
+
+set $calculator  "gnome-calculator                                           "
+set $terminal    "kitty                                                      "
+set $browser     "google-chrome-stable                                       "
+set $chat        "rambox                                                     "
+set $filemanager "nemo                                                       "
+set $climanager  "ranger                                                     "
+set $power       "$USERSCRIPT/rofi-widgets/widgets/power-options.sh          "
+
+
+######################################  Rules
+
+for_window [class="Arandr" ] \
+ 	floating enable, \
+	resize set 800px 800px
+
+for_window [instance="calibre-ebook-viewer" ] \
+ 	floating enable, \
+	resize set 800px 800px
+
+#for_window [class="kitty" instance="[fragm]kitty"] \
+#	floating enable, \
+# 	resize set 640px 480px, \
+# 	move absolute position center
+
+#for_window [class="kitty" instance="[n]kitty"] \
+	#floating enable, \
+ 	#resize set 1280px 640px, \
+ 	#move absolute position center
+
+# open applications on specific workspaces
+assign [class="Firefox"]                                           $workspace2
+assign [class="firefox"]                                           $workspace2
+#assign [instance="Firefox"]                                       $workspace2
+assign [class="Google-chrome"]                                     $workspace3
+assign [class="Nemo"]                                              $workspace4
+assign [title="ranger"]                                            $workspace4
+assign [class="Nautilus"]                                          $workspace4
+assign [class="VSCodium"]                                          $workspace5
+assign [class="Codium"]                                            $workspace5
+assign [class="Transmission-gtk"]                                  $workspace6
+assign [class="Totem"]                                             $workspace7
+assign [class="yuna"]                                              $workspace7
+assign [class="Io.github.celluloid_player.Celluloid"]              $workspace7
+assign [class="Krita"]                                             $workspace7
+assign [class="Franz"]                                             $workspace8
+assign [class="Rambox"]                                            $workspace8
+assign [class="Hamster-windows-service"]                           $workspace8
+assign [class="Microsoft Teams - Preview"]                         $workspace8
+assign [class="discord"]                                           $workspace8
+assign [class="jetbrains-*"]                                       $workspace9
+assign [class="Spotify"]                                           $workspace10
+assign [class="Auryo"]                                             $workspace10
+assign [class="Steam"]                                             $workspace11
+assign [class="Lutris"]                                            $workspace11
+assign [class="Wine"]                                              $workspace11
+assign [class="Minecraft*"]                                        $workspace11
+assign [class="FML early loading progress"]                        $workspace11
+assign [class="ru-turikhay-tlauncher-bootstrap-Bootstrap"]         $workspace11
+assign [class="DarkPlaces"]                                        $workspace11
+assign [class="Com.github.johnfactotum.Foliate"]                   $workspace12
+assign [class="Com.github.geigi.cozy"]                             $workspace12
+assign [class="calibre" instance="calibre-gui"]                    $workspace12
+assign [class="anbox"]                                             $workspace12
+assign [class="libreoffice-*"]                                     $workspace12
+assign [class="qutebrowser"]                                       $workspace13
+assign [class="Exodus"]                                            $workspace13
+assign [class="Tor Browser"]                                       $workspace13
+assign [class="TeamViewer"]                                        $workspace13
+
+for_window [class="Spotify"] move to workspace $workspace10
+for_window [class="Auryo"] move to workspace $workspace10
+for_window [class="libreoffice-*"] move to workspace $workspace12
+#for_window [class="firefox"] move to workspace $workspace2
+#for_window [class="firefox"] move to workspace $workspace2
+#for_window [instance="Firefox"] move to workspace $workspace2
+
+# Open specific applications in floating mode=====
+for_window [title="alsamixer"] floating enable border pixel 1
+for_window [class="Blueberry.py"] floating enable
+for_window [class="Gnome-calculator"] floating enable
+for_window [title="File Transfer*"] floating enable
+for_window [class="Gnome-mpv"] floating enable
+for_window [class="Io.github.celluloid_player.Celluloid"] floating centered enable
+for_window [class="Lxappearance"] floating enable sticky
+for_window [class="Nitrogen"] floating enable sticky enable
+for_window [class="Pamac-manager"] floating enable
+for_window [class="Pavucontrol"] floating enable
+for_window [class="Enpass"] floating enable
+for_window [class="qt5ct"] floating enable sticky enable border normal
+for_window [class="Qtconfig-qt4"] floating enable sticky enable border normal
+for_window [class="Simple-scan"] floating enable border normal
+for_window [class="(?i)System-config-printer.py"] floating enable border normal
+for_window [class="Timeset-gui"] floating enable border normal
+for_window [class="Yad" title="yad-calendar"] floating enable
+for_window [class="mpv"] floating enable sticky
+for_window [class="flameshot"] floating enable
+for_window [class="Pulseaudio-equalizer-gtk"] floating enable
+for_window [window_role="hamster-windows-service"]  floating disable; layout stacking; move left; resize shrink right 31px or 31 ppt
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="bubble"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [window_role="Preferences"] floating enable
+for_window [window_type="dialog"] floating enable
+for_window [window_type="menu"] floating enable
+for_window [id="73400454"] floating enable
+#for_window [window_type="organizer"] floating enable
+for_window [class="firefox*"] layout tabbed
+#for_window [instance="Navigator"] floating enable
+for_window [class="chrome*"] layout tabbed
+#for_window [assign=$wokspace8] layout tabbed
+#for_window [class="Zathura"] layout tabbed
+for_window [class="jetbrains-*"] layout tabbed
+for_window [class="jetbrains-*" title="win0"] floating enable
+for_window [class="jetbrains-*" title="Welcome to PyCharm"] floating enable
+for_window [class="jetbrains-*" title="Welcome to Android Studio"] floating enable
+for_window [title="Emulator"] floating enable
+for_window [title="Android Emulator - Pixel_XL_API_27:5554"] floating enable
+for_window [class="Hamster"] floating enable
+for_window [class="ProtonMail Bridge"] floating enable
+for_window [class="rambox"] layout tabbed
+for_window [class="Auryo"] layout tabbed
+for_window [class="Spotify"] layout tabbed
+for_window [class="Microsoft Teams - Preview" title="Microsoft Teams Notification"] floating enable
+# switch to workspace with urgent window automatically
+for_window [urgent=latest] focus
+#floating_minimum_size 400 x 200
+floating_maximum_size 1152x648
+
+
+# client.background $black
+# class                 border   bground  text    indicator child_border
+client.focused          $blue    $brblue  $white  $blue     $brblue
+client.focused_inactive $brblack $brblack $white  $brblack  $brblack
+client.unfocused        $brblack $brblack $brblue $brblack  $brblack
+client.urgent           $brblack $red     $white  $red      $red
+client.placeholder      $black   $black   $white  $black    $black
+###################################### Bindings
+## Environment restart
+bindsym $super+Ctrl+r exec                  \
+     "                                      \
+         { i3-msg restart &&                \
+         ~/.config/polybar/launch.sh; }     \
+         &>/dev/null                        \
+     "
+bindsym $super+Shift+r restart
+
+## Window Managment
+#Workspace name
+set $workspace1 "1: "
+set $workspace2 "2: "
+set $workspace3 "3: "
+set $workspace4 "4: "
+set $workspace5 "5: ﬏"
+set $workspace6 "6: "
+set $workspace7 "7: "
+set $workspace8 "8: "
+#set $workspace9 "9: "
+set $workspace9 "9: "
+set $workspace10 "10: "
+set $workspace11 "11: "
+set $workspace12 "12: "
+set $workspace13 "13: "
+
+# Assign workspace to monitor
+#Primary Laptop Monitor
+#workspace $workspace2  output $laptop
+workspace $workspace8  output $laptop
+workspace $workspace10 output $laptop
+# 4K monitors (office and home)
+workspace $workspace1 output $monitor4k
+workspace $workspace1 output DP1
+workspace $workspace5 output $monitor4k
+workspace $workspace5 output DP1
+workspace $workspace9 output $monitor4k
+workspace $workspace9 output DP1
+# FHD monitor office
+#workspace $workspace3 output $monitorFHD
+
+# switch to workspace
+bindsym $super+1  workspace $workspace1
+bindsym $super+2  workspace $workspace2
+bindsym $super+3  workspace $workspace3
+bindsym $super+4  workspace $workspace4
+bindsym $super+5  workspace $workspace5
+bindsym $super+6  workspace $workspace6
+bindsym $super+7  workspace $workspace7
+bindsym $super+8  workspace $workspace8
+bindsym $super+9  workspace $workspace9
+bindsym $super+0  workspace $workspace10
+bindsym $super+F1 workspace $workspace11
+bindsym $super+F2 workspace $workspace12
+bindsym $super+F3 workspace $workspace13
+
+# move focused container to workspace
+bindsym $super+Shift+1  move container to workspace $workspace1
+bindsym $super+Shift+2  move container to workspace $workspace2
+bindsym $super+Shift+3  move container to workspace $workspace3
+bindsym $super+Shift+4  move container to workspace $workspace4
+bindsym $super+Shift+5  move container to workspace $workspace5
+bindsym $super+Shift+6  move container to workspace $workspace6
+bindsym $super+Shift+7  move container to workspace $workspace7
+bindsym $super+Shift+8  move container to workspace $workspace8
+bindsym $super+Shift+9  move container to workspace $workspace9
+bindsym $super+Shift+0  move container to workspace $workspace10
+bindsym $super+Shift+F1 move container to workspace $workspace11
+bindsym $super+Shift+F2 move container to workspace $workspace12
+bindsym $super+Shift+F3 move container to workspace $workspace13
+
+# Add title and border
+bindsym $super+y border pixel 1
+bindsym $super+n border normal
+bindsym $super+u border none
+
+floating_modifier $super
+
+# change focus
+#bindsym $super+j focus left
+#bindsym $super+k focus down
+#bindsym $alt+l focus up
+#bindsym $super+semicolon focus right
+
+bindsym $super+Left  focus left
+bindsym $super+Down  focus down
+bindsym $super+Up    focus up
+bindsym $super+Right focus right
+
+# move focused window2
+#bindsym $super+Shift+j move left
+#bindsym $super+Shift+k move down
+#bindsym $super+Shift+l move up
+#bindsym $super+Shift+semicolon move right
+
+bindsym $super+Shift+Left  move left
+bindsym $super+Shift+Down  move down
+bindsym $super+Shift+Up    move up
+bindsym $super+Shift+Right move right
+
+#Mode between monitor
+bindsym $alt+Shift+Left  move workspace to output left
+bindsym $alt+Shift+Right move workspace to output right
+# bindsym $super+b move workspace to output left
+
+# workspace back and forth (with/without active container)
+workspace_auto_back_and_forth yes
+#bindsym $super+b workspace back_and_forth
+bindsym $super+Shift+b move container to workspace back_and_forth; workspace back_and_forth
+
+# split orientation
+bindsym $super+h split h;exec notify-send 'horizontally'
+bindsym $super+v split v;exec notify-send 'vertically'
+bindsym $super+q split toggle; exec notify-send 'toggle'
+
+# toggle fullscreen mode for the focused container
+bindsym $super+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $super+s layout stacking ;exec notify-send ''
+bindsym $super+t layout tabbed ;exec notify-send '離'
+bindsym $super+$alt+e layout toggle split ;exec notify-send '離'
+
+# toggle tiling / floating
+bindsym $super+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $super+space focus mode_toggle
+
+# toggle sticky
+bindsym $super+Shift+s sticky toggle; exec notify-send ''
+
+# focus the parent container
+bindsym $super+a focus parent
+
+#resize window
+bindsym $super+r mode "resize"
+mode "resize" {
+	bindsym $alt+Left   resize shrink width  1 px or 1 ppt
+	bindsym $alt+Down   resize grow   height 1 px or 1 ppt
+	bindsym $alt+Up     resize shrink height 1 px or 1 ppt
+	bindsym $alt+Right  resize grow   width  1 px or 1 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left    resize shrink width  10 px or 10 ppt
+        bindsym Down    resize grow   height 10 px or 10 ppt
+        bindsym Up      resize shrink height 10 px or 10 ppt
+        bindsym Right   resize grow   width  10 px or 10 ppt
+
+        # exit resize mode: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+### Restart mode ###
+# bindsym $super+x \
+#     exec --no-startup-id notify-send --icon=/usr/share/icons/Paper/scalable/actions/view-refresh-symbolic.svg \
+#         "Restart mode" \
+#         "<span color='#728cbb'></span><span weight='heavy' color='$white' background='#728cbb'>D</span><span color='#728cbb' background='$brblack'></span><span color='#e2e2e2' background='$brblack'> dunst </span><span color='$brblack'></span>  <span color='#728cbb'></span><span weight='heavy' color='$white' background='#728cbb'>I</span><span color='#728cbb' background='$brblack'></span><span color='#e2e2e2' background='$brblack'> i3 </span><span color='$brblack'></span>  <span color='#728cbb'></span><span weight='heavy' color='$white' background='#728cbb'>P</span><span color='#728cbb' background='$brblack'></span><span color='#e2e2e2' background='$brblack'> polybar </span><span color='$brblack'></span>  <span color='#728cbb'></span><span weight='heavy' color='$white' background='#728cbb'>C</span><span color='#728cbb' background='$brblack'></span><span color='#e2e2e2' background='$brblack'> compton </span><span color='$brblack'></span><span color='#728cbb'></span><span weight='heavy' color='$white' background='#728cbb'>Z</span><span color='#728cbb' background='$brblack'></span><span color='#e2e2e2' background='$brblack'> conky </span><span color='$brblack'></span> "; \
+#     mode "restart"
+#     mode "restart" {
+#         # Restart dunst (notifications)
+#         bindsym d                   exec --no-startup-id pkill dunst && dunst -config ~/.config/dunst/dunstrc; mode "default"
+#         # Restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+#         bindsym i                   restart; mode "default"
+#         # Restart the polybar (the pretty bar up top)
+#         bindsym p                   exec --no-startup-id pkill polybar && sh ~/.config/polybar/launch.sh; mode "default"
+#         # Restart compton (compositor)
+#         bindsym c                   exec pkill compton && compton --config ~/.config/compton.conf -b; mode "default"
+#         # Restart conky (conky)
+#         bindsym z                   exec --no-startup-id pkill conky && $XDG_CONFIG_HOME/conky.start_conky &; mode "default"
+#         # Exit restart mode: "Enter" or "Escape"
+#         bindsym Return              mode "default"
+#         bindsym Escape              mode "default"
+#     }
+
+######################################  Gaps Configuration #####
+gaps inner 10
+gaps outer 10
+new_window pixel 1
+new_float normal
+hide_edge_borders none
+
+set $supere_gaps Gaps: (o) outer, (i) inner
+set $supere_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
+set $supere_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)
+# bindsym $super+Shift+g mode "$supere_gaps"
+
+mode "$supere_gaps" {
+        bindsym o      mode "$supere_gaps_outer"
+        bindsym i      mode "$supere_gaps_inner"
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+mode "$supere_gaps_inner" {
+        bindsym plus  gaps inner current plus 5
+        bindsym minus gaps inner current minus 5
+        bindsym 0     gaps inner current set 0
+
+        bindsym Shift+plus  gaps inner all plus 5
+        bindsym Shift+minus gaps inner all minus 5
+        bindsym Shift+0     gaps inner all set 0
+
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+mode "$supere_gaps_outer" {
+        bindsym plus  gaps outer current plus 5
+        bindsym minus gaps outer current minus 5
+        bindsym 0     gaps outer current set 0
+
+        bindsym Shift+plus  gaps outer all plus 5
+        bindsym Shift+minus gaps outer all minus 5
+        bindsym Shift+0     gaps outer all set 0
+
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+workspace $workspace9 gaps inner 0
+workspace $workspace9 gaps outer 0
+
+
+##  Aplications
+bindsym $super+Shift+w exec firefox
+bindsym $super+Shift+z exec $chat
+bindsym $super+Shift+c exec $browser
+bindsym $super+Shift+q exec qutebrowser
+bindsym $super+Shift+h exec hamster overview
+bindsym $super+e       exec $filemanager
+bindsym $super+$alt+r  exec $climanager
+bindsym $super+Shift+f exec spotify
+bindsym $super+p       exec phpstorm
+bindsym $super+Shift+p exec pycharm-eap
+bindsym $super+Shift+a exec android-studio
+bindsym $super+Shift+v exec vscodium
+
+# Terminal
+bindsym $super+Shift+Return exec $terminal
+bindsym $super+Return       exec tilix
+
+## somethink
+#exec --no-startup-id kitty --name quake
+#for_window [instance="quake"] floating enable, resize set 2048px 1152px
+#for_window [instance="quake"] move scratchpad; [instance="quake"] scratchpad show; move scratchpad
+#bindsym F1 [instance="quake"] scratchpad show
+
+# Window kill command
+bindsym $super+c kill
+
+# lock screen
+#bindsym $super+l exec betterlockscreen -l dim blur
+#bindsym $super+l exec ~/.local/bin/lock-theme
+bindsym $super+l exec gnome-screensaver-command -l
+# bindsym $super+l exec mantablockscreen
+# start program launcher
+# bindsym $super+Shift+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 800 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "System San Francisco Display 18" -fullscreen
+# bindsym $super+Shift+d exec rofi -show run -fullscreen
+bindsym $super+d        exec rofi -show drun
+bindsym $super+Tab      exec --no-startup-id rofi -theme ~/.config/rofi/themes/bwmenu.rasi -show
+bindsym $super+Shift+d  exec bwmenu -- -theme ~/.config/rofi/themes/bwmenu.rasi
+bindsym $super+m        exec rofi-autorandr 
+
+bindsym $super+b exec --no-startup-id rofi-bluetooth -theme /home/taurthil/.config/rofi/themes/bwmenu.rasi
+
+#screenshots
+bindsym Print                   exec gnome-screenshot
+bindsym Shift+Print             exec gnome-screenshot --area
+bindsym $super+Print            exec gnome-screenshot -w
+bindsym $super+Shift+Print      exec gnome-screenshot -w --delay=3
+
+# move the currently focused window to the scratchpad
+bindsym $super+Shift+minus move scratchpad
+
+# Show the next scratchpad window or hide the focused scratchpad window.
+# If there are multiple scratchpad windows, this command cycles through them.
+bindsym $super+minus scratchpad show
+
+# navigate workspaces next / previous
+bindsym $super+Ctrl+Right workspace next
+bindsym $super+Ctrl+Left  workspace prev
+
+# exit i3 (logs you out of your X session)
+bindsym $super+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+
+## Special Keys        
+bindsym $alt+F9  exec i3-gnome-pomodoro start
+bindsym $alt+F10 exec i3-gnome-pomodoro pause
+bindsym $alt+F11 exec i3-gnome-pomodoro skip
+bindsym $alt+F12 exec i3-gnome-pomodoro stop
+
+#bindsym XF86AudioMute exec --no-startup-id amixer -q set Master toggle
+bindsym XF86AudioMute exec --no-startup-id exec ~/.local/bin/volume.sh mute
+
+bindsym XF86AudioRaiseVolume exec --no-startup-id exec ~/.local/bin/volume.sh up
+bindsym XF86AudioLowerVolume exec --no-startup-id exec ~/.local/bin/volume.sh down
+
+
+bindsym button6 exec --no-startup-id exec ~/.local/bin/volume.sh up
+bindsym button7 exec --no-startup-id exec ~/.local/bin/volume.sh down
+
+#bindsym XF86AudioRaiseVolume exec amixer -q set Master 5%+
+#bindsym XF86AudioLowerVolume exec amixer -q set Master 5%-
+
+# Media player controls
+#bindsym XF86AudioPlay exec playerctl toogle
+#bindsym XF86AudioPause exec playerctl pause
+bindsym XF86AudioPlay  exec playerctl play-pause
+bindsym XF86AudioPause exec playerctl play-pause
+bindsym XF86AudioNext  exec playerctl next
+bindsym XF86AudioPrev  exec playerctl previous
+
+bindsym $super+XF86AudioPlay  exec mpc toggle;exec notify-send $(mpc status)
+bindsym $super+XF86AudioStop  exec mpc stop
+bindsym $super+XF86AudioNext  exec mpc next
+bindsym $super+XF86AudioPrev  exec mpc prev
+
+# touchpad on and off controller on laptop with Fn+<touchpad control functional key>
+bindsym XF86TouchpadOn  exec --no-startup-id synclient Touchpadoff=0
+bindsym XF86TouchpadOff exec --no-startup-id synclient Touchpadoff=1
+
+# Sreen brightness controls
+#bindsym XF86MonBrightnessUp   exec xbacklight -inc 20 # increase screen brightness
+#bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
+bindsym XF86MonBrightnessUp   exec ~/.local/bin/brightness.sh up
+bindsym XF86MonBrightnessDown exec ~/.local/bin/brightness.sh down
+
+
+bindsym $super+button3 floating toggle
+######################################  Startup
+#resolution
+# exec --no-startup-id autorandr -c
+# exec --no-startup-id i3working
+# exec --no-startup-id flashfocus
+exec --no-startup-id compton --config ~/.config/compton/compton.conf
+exec --no-startup-id libinput-gestures-setup start
+exec --no-startup-id xinput --map-to-output $(xinput list --id-only "ELAN Touchscreen") $laptop
+# exec_always --no-startup-id ~/.config/conky/start_conky
+exec_always --no-startup-id nitrogen --restore
+exec_always --no-startup-id ~/.config/polybar/launch.sh >/dev/null;
+exec --no-startup-id comptray
+
+# exec --no-startup-id "i3-msg 'workspace $wokspace8; append_layout ~/.i3/workspace-8.json'"
+#wifi
+exec --no-startup-id nm-applet
+#updates
+# exec --no-startup-id pamac-tray
+#cupboard
+# exec --no-startup-id clipit
+# exec --no-startup-id xset dpms 300
+#exec --no-startup-id xautolock -time 5 -locker "betterlockscreen -l dim"
+#exec --no-startup-id xautolock -time 10 -locker "~/.local/bin/lock-theme"
+exec --no-startup-id xautolock -time 10 -locker "gnome-screensaver-command -l"
+exec --no-startup-id ~/.local/bin/aws-login
+# exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+# exec --no-startup-id mpd
+#set language
+# exec_always --no-startup-id setxkbmap pl
+#set numpad=on
+exec --no-startup-id numlockx
+#exec --no-startup-id xfce4-power-manager
+exec --no-startup-id udiskie
+
+exec_always --no-startup-id /usr/lib/autotiling/autotiling.py
+
+exec --no-startup-id /usr/lib/gsd-xsettings
+exec --no-startup-id /usr/lib/gsd-mouse
+exec --no-startup-id /usr/lib/gsd-keyboard
+exec --no-startup-id /usr/bin/gnome-screensaver
+exec_always --no-startup-id gnome-power-manager
+exec --no-startup-id gnome-flashback
+exec dbus-send --type=method_call --dest=org.gnome.ScreenSaver /org/gnome/ScreenSaver org.gnome.ScreenSaver.Lock
